@@ -1,0 +1,7 @@
+C:\Users\Thamel\Desktop\C#_.NET_Coding\User_Input_Math\User_Input_Math\obj\Debug\User_Input_Math.csprojAssemblyReference.cache
+C:\Users\Thamel\Desktop\C#_.NET_Coding\User_Input_Math\User_Input_Math\obj\Debug\User_Input_Math.csproj.CoreCompileInputs.cache
+C:\Users\Thamel\Desktop\C#_.NET_Coding\User_Input_Math\User_Input_Math\bin\Debug\User_Input_Math.exe.config
+C:\Users\Thamel\Desktop\C#_.NET_Coding\User_Input_Math\User_Input_Math\bin\Debug\User_Input_Math.exe
+C:\Users\Thamel\Desktop\C#_.NET_Coding\User_Input_Math\User_Input_Math\bin\Debug\User_Input_Math.pdb
+C:\Users\Thamel\Desktop\C#_.NET_Coding\User_Input_Math\User_Input_Math\obj\Debug\User_Input_Math.exe
+C:\Users\Thamel\Desktop\C#_.NET_Coding\User_Input_Math\User_Input_Math\obj\Debug\User_Input_Math.pdb

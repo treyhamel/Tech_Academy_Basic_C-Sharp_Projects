@@ -1,0 +1,7 @@
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Tech_Academy_Student_Daily_Report\Tech_Academy_Student_Daily_Report\bin\Debug\Tech_Academy_Student_Daily_Report.exe.config
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Tech_Academy_Student_Daily_Report\Tech_Academy_Student_Daily_Report\bin\Debug\Tech_Academy_Student_Daily_Report.exe
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Tech_Academy_Student_Daily_Report\Tech_Academy_Student_Daily_Report\bin\Debug\Tech_Academy_Student_Daily_Report.pdb
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Tech_Academy_Student_Daily_Report\Tech_Academy_Student_Daily_Report\obj\Debug\Tech_Academy_Student_Daily_Report.csprojAssemblyReference.cache
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Tech_Academy_Student_Daily_Report\Tech_Academy_Student_Daily_Report\obj\Debug\Tech_Academy_Student_Daily_Report.csproj.CoreCompileInputs.cache
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Tech_Academy_Student_Daily_Report\Tech_Academy_Student_Daily_Report\obj\Debug\Tech_Academy_Student_Daily_Report.exe
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Tech_Academy_Student_Daily_Report\Tech_Academy_Student_Daily_Report\obj\Debug\Tech_Academy_Student_Daily_Report.pdb
