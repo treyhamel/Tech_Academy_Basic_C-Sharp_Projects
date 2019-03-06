@@ -41,8 +41,7 @@ namespace Package_Express_Task
                 else
                 {
                     double shipPrice = totalDimensions * packageWt / 100;
-                    Console.WriteLine("The cost to ship your package is: ");
-                    Console.WriteLine("$" + shipPrice);
+                    Console.WriteLine("The estimated cost to ship your package is: $" + shipPrice);
                     Console.ReadLine();
                 }
             }
