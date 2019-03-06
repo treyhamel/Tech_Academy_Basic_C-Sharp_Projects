@@ -1,0 +1,7 @@
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Package_Express_Task\Package_Express_Task\obj\Debug\Package_Express_Task.csprojAssemblyReference.cache
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Package_Express_Task\Package_Express_Task\obj\Debug\Package_Express_Task.csproj.CoreCompileInputs.cache
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Package_Express_Task\Package_Express_Task\bin\Debug\Package_Express_Task.exe.config
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Package_Express_Task\Package_Express_Task\bin\Debug\Package_Express_Task.exe
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Package_Express_Task\Package_Express_Task\bin\Debug\Package_Express_Task.pdb
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Package_Express_Task\Package_Express_Task\obj\Debug\Package_Express_Task.exe
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Package_Express_Task\Package_Express_Task\obj\Debug\Package_Express_Task.pdb
