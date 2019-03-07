@@ -1,0 +1,7 @@
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Arrays_Lists_Page100Task\Arrays_Lists_Page100Task\bin\Debug\Arrays_Lists_Page100Task.exe.config
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Arrays_Lists_Page100Task\Arrays_Lists_Page100Task\bin\Debug\Arrays_Lists_Page100Task.exe
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Arrays_Lists_Page100Task\Arrays_Lists_Page100Task\bin\Debug\Arrays_Lists_Page100Task.pdb
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Arrays_Lists_Page100Task\Arrays_Lists_Page100Task\obj\Debug\Arrays_Lists_Page100Task.csprojAssemblyReference.cache
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Arrays_Lists_Page100Task\Arrays_Lists_Page100Task\obj\Debug\Arrays_Lists_Page100Task.csproj.CoreCompileInputs.cache
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Arrays_Lists_Page100Task\Arrays_Lists_Page100Task\obj\Debug\Arrays_Lists_Page100Task.exe
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Arrays_Lists_Page100Task\Arrays_Lists_Page100Task\obj\Debug\Arrays_Lists_Page100Task.pdb
