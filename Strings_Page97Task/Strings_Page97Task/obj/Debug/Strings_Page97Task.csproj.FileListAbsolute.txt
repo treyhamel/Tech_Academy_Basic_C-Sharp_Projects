@@ -1,0 +1,7 @@
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Strings_Page97Task\Strings_Page97Task\obj\Debug\Strings_Page97Task.csprojAssemblyReference.cache
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Strings_Page97Task\Strings_Page97Task\obj\Debug\Strings_Page97Task.csproj.CoreCompileInputs.cache
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Strings_Page97Task\Strings_Page97Task\bin\Debug\Strings_Page97Task.exe.config
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Strings_Page97Task\Strings_Page97Task\bin\Debug\Strings_Page97Task.exe
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Strings_Page97Task\Strings_Page97Task\bin\Debug\Strings_Page97Task.pdb
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Strings_Page97Task\Strings_Page97Task\obj\Debug\Strings_Page97Task.exe
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Strings_Page97Task\Strings_Page97Task\obj\Debug\Strings_Page97Task.pdb
