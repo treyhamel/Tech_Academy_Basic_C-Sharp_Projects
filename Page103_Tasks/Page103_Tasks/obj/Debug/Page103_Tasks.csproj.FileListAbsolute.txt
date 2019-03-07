@@ -1,0 +1,7 @@
+C:\Users\Thamel\source\repos\Page103_Tasks\Page103_Tasks\obj\Debug\Page103_Tasks.csprojAssemblyReference.cache
+C:\Users\Thamel\source\repos\Page103_Tasks\Page103_Tasks\obj\Debug\Page103_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Thamel\source\repos\Page103_Tasks\Page103_Tasks\bin\Debug\Page103_Tasks.exe.config
+C:\Users\Thamel\source\repos\Page103_Tasks\Page103_Tasks\bin\Debug\Page103_Tasks.exe
+C:\Users\Thamel\source\repos\Page103_Tasks\Page103_Tasks\bin\Debug\Page103_Tasks.pdb
+C:\Users\Thamel\source\repos\Page103_Tasks\Page103_Tasks\obj\Debug\Page103_Tasks.exe
+C:\Users\Thamel\source\repos\Page103_Tasks\Page103_Tasks\obj\Debug\Page103_Tasks.pdb
