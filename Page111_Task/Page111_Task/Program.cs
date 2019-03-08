@@ -10,15 +10,21 @@ namespace Page111_Task
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter a whole number.");
+            Console.WriteLine("Please enter a whole number you'd like to square.");
             int numOne = Convert.ToInt32(Console.ReadLine());
-            int divide = Operations.Divide(numOne);
-            int subtract = Operations.Subtract(numOne);
             int square = Operations.Square(numOne);
 
             Console.WriteLine(numOne + " squared is " + square);
-            Console.WriteLine(numOne + " divided by 2 is " + divide);
-            Console.WriteLine(numOne + " minus 2 is " + subtract);
+
+            Console.WriteLine("Please enter a whole number you'd like to divide by 2.");
+            int numTwo = Convert.ToInt32(Console.ReadLine());
+            int divide = Operations.Divide(numTwo);
+            Console.WriteLine(numTwo + " divided by 2 is " + divide);
+
+            Console.WriteLine("Please enter a whole number you'd like to subtract by 2.");
+            int numThree = Convert.ToInt32(Console.ReadLine());
+            int subtract = Operations.Subtract(numThree);
+            Console.WriteLine(numThree + " minus 2 is " + subtract);
             Console.ReadLine();
         }
     }
