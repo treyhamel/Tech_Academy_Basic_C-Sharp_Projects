@@ -1,0 +1,7 @@
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Page140_Task\Page140_Task\bin\Debug\Page140_Task.exe.config
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Page140_Task\Page140_Task\bin\Debug\Page140_Task.exe
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Page140_Task\Page140_Task\bin\Debug\Page140_Task.pdb
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Page140_Task\Page140_Task\obj\Debug\Page140_Task.csprojAssemblyReference.cache
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Page140_Task\Page140_Task\obj\Debug\Page140_Task.csproj.CoreCompileInputs.cache
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Page140_Task\Page140_Task\obj\Debug\Page140_Task.exe
+C:\Users\Thamel\Desktop\C#_.NET_Coding\Page140_Task\Page140_Task\obj\Debug\Page140_Task.pdb
